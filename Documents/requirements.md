@@ -6,7 +6,7 @@
 - Salvador Menez
 
 ## Purpose
-- A brief description of the project.
+- The purpose of our software is to create a simple document writer that is less complex than Word for elementary school students and those with learning disabilities.
 
 ## Requirements
 
