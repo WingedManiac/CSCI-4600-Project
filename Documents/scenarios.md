@@ -154,17 +154,17 @@
 
 
 ## Scenario 10
-### Starting situation: 
+### Starting situation
   - Users have a paper to write and want to use Simple Writer to write the paper. These will be saved to the computer to turn in. They have successfully opened Simple Writer. 
 
-### Normal flow of events:
+### Normal flow of events
   - Users scroll to choose a font size, chooses the font color by clicking on the color listed once they click on the font color button, and then chooses a font highlight by clicking on the color listed once they click on the font highlight color button. They type up their paper. They save their paper to the computer as a pdf. They close the Simple Writer. 
 
-### What can go wrong:
+### What can go wrong
   - Nothing
 
-### Concurrent activities:
+### Concurrent activities
   - None
 
-### State when scenario finishes:
+### State when scenario finishes
   - Users have a written paper that has successfully downloaded to the computer with the desired font color, highlight, and size.
